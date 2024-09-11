@@ -1,27 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
 
+*{
+    padding: 0;
+}
 
 body{
-    background-color: rgba(255, 217, 0, 0.829);
+    background-color: rgba(240, 243, 255, 0.829);
 }
-li{
-    color: white;
-}
-.first{
-    color: purple;
-}
-#second{
-    color: blue;
-}
+
 h1{
-    font-size: 32px;
+    color: navy;
     text-align: center;
-}
-img{
-    width: 50vw;
-}
-.post{
-    background-color: white;
-    height: 100px;
-    width: 100px;
-    margin: 50px auto;
+    
 }
