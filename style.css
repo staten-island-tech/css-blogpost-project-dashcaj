@@ -4,12 +4,22 @@
     padding: 0;
 }
 
+
 body{
-    background-color: rgba(240, 243, 255, 0.829);
+    background-color: rgb(231, 231, 231);
+    color: navy;
+    
 }
 
 h1{
-    color: navy;
+    text-align: center; 
+    font-size: 50px;
+}
+
+.post1{
+    font-size: 30px;
+    margin: 150px auto;
     text-align: center;
-    
+    border: 3px solid navy;
+    width: 40vw;
 }
