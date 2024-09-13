@@ -6,20 +6,53 @@
 
 
 body{
-    background-color: rgb(231, 231, 231);
+    background-color: rgba(148, 148, 148, 0.938);
     color: navy;
-    
+    font-family: "Reddit Sans Condensed", sans-serif;
 }
 
 h1{
     text-align: center; 
     font-size: 50px;
+    margin-top: 30px;
 }
 
 .post1{
     font-size: 30px;
     margin: 150px auto;
+    margin-bottom: 0px;
     text-align: center;
     border: 3px solid navy;
-    width: 40vw;
+    padding: 20px;
+    width: 50vw;
+    height: 25vw;
+    background-color: rgb(204, 204, 204);
+}
+
+.paragraph{
+    margin-top: 220px;
+    font-size: 25px;
+}
+
+.post2{
+    font-size: 30px;
+    margin: 150px auto;
+    margin-bottom: 0px;
+    text-align: center;
+    border: 3px solid navy;
+    padding: 20px;
+    width: 50vw;
+    height: 25vw;
+    background-color: rgb(204, 204, 204);
+}
+.post3{
+    font-size: 30px;
+    margin: 150px auto;
+    margin-bottom: 0px;
+    text-align: center;
+    border: 3px solid navy;
+    padding: 20px;
+    width: 50vw;
+    height: 25vw;
+    background-color: rgb(204, 204, 204);
 }
