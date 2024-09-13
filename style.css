@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
 
-*{
-    padding: 0;
-}
 
 
-body{
+body, html, *{
     background-color: rgba(148, 148, 148, 0.938);
     color: navy;
     font-family: "Reddit Sans Condensed", sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
 h1{
@@ -29,9 +29,19 @@ h1{
     background-color: rgb(204, 204, 204);
 }
 
+#tvn{
+    margin: 0;
+    padding: 0;
+}
+
+.heading1{
+    background-color: rgb(204, 204, 204);
+}
+
 .paragraph{
     margin-top: 220px;
     font-size: 25px;
+    background-color: rgb(204, 204, 204);
 }
 
 .post2{
@@ -45,6 +55,10 @@ h1{
     height: 25vw;
     background-color: rgb(204, 204, 204);
 }
+
+.heading2{
+    background-color: rgb(204, 204, 204);
+}
 .post3{
     font-size: 30px;
     margin: 150px auto;
@@ -54,5 +68,9 @@ h1{
     padding: 20px;
     width: 50vw;
     height: 25vw;
+    background-color: rgb(204, 204, 204);
+}
+
+.heading3{
     background-color: rgb(204, 204, 204);
 }
